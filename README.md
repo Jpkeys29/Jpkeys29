@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Jpkeys29
+- 👋 Hi, I’m @JpKeys
 - 👀 I’m interested in all things software development
 - 🌱 I’m currently learning Algos and Data Structures
 - 💞️ I’m looking to collaborate on Algos and Data Structures
